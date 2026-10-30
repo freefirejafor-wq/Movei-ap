@@ -1,0 +1,6 @@
+{
+  "name": "MovieLinkBD iPhone Cinema & Anime Portal",
+  "description": "Ad-free iPhone-optimized movie, anime, web series, and K-drama streaming and download portal powered by live MovieLinkBD feeds, multi-audio player, watchlist, and iOS PWA support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
